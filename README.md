@@ -1,1 +1,1 @@
-capstone landing page
+capstone wireframe for landing page
